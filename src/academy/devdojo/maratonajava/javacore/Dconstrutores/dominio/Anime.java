@@ -6,11 +6,18 @@ public class Anime {
     private int episodios;
     private String genero;
 
+    private String estudio;
+
     public Anime(String nome, String tipo, int episodios, String genero) {
         this.nome = nome;
         this.tipo = tipo;
         this.episodios = episodios;
         this.genero = genero;
+    }
+
+    public Anime(String nome, String tipo, int episodios, String genero, String estudio) {
+        this(nome, tipo, episodios, genero);//Executa o construtor ao qual se refere e sempre deve ser a primeira linha executável dentro do construtor
+        this.estudio = estudio;
     }
 
     public Anime() {
@@ -32,6 +39,7 @@ public class Anime {
         System.out.println(this.tipo);
         System.out.println(this.episodios);
         System.out.println(this.genero);
+        System.out.println(this.estudio);
     }
 
     public String getNome() {
