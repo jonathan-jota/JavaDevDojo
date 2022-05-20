@@ -41,8 +41,8 @@ public class Carro {
     }
 
     //public double getVelocidadeLimite() {
-        return velocidadeLimite;
-    }
+        //return velocidadeLimite;
+   // }
 
 //    public void setVelocidadeLimite(double velocidadeLimite) {
 //        this.velocidadeLimite = velocidadeLimite;
