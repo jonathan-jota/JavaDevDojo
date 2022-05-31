@@ -2,6 +2,7 @@ package academy.devdojo.maratonajava.javacore.Hheranca.teste;
 
 import academy.devdojo.maratonajava.javacore.Hheranca.dominio.Endereco;
 import academy.devdojo.maratonajava.javacore.Hheranca.dominio.Funcionario;
+import academy.devdojo.maratonajava.javacore.Hheranca.dominio.Funcionario2;
 import academy.devdojo.maratonajava.javacore.Hheranca.dominio.Pessoa;
 
 public class HerancaTest01 {
@@ -23,6 +24,10 @@ public class HerancaTest01 {
         funcionario.setEndereco(endereco);
         funcionario.setSalario(4000);
         funcionario.imprime();
+        funcionario.relatarioPagamento();
+        Funcionario2 funcionario2 = new Funcionario2();
+        funcionario2.imprime();
+
 
 
     }
