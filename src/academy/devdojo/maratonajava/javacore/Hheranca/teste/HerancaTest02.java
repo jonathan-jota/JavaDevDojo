@@ -15,7 +15,7 @@ public class HerancaTest02 {
      * 8 - Bloco de incialização da subclasse é executado na ordem em que aparece
      * 9 - Construtor da subclasse é executado
      */
-    static {
+
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario("Carlos");
     }
