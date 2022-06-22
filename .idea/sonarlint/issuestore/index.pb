@@ -17,3 +17,11 @@ Ssrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor2.
 _src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java,e\a\ea1d7e2d337ffab5ce02b440cb955551c2fe9a33
 ’
 bsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.java,6\2\625d6008b27a1840012366d7b0133c71aad4919e
+•
+esrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java,f\c\fc45c8dad586508fcb85e4f1a5cb51156a357ed8
+‚
+Rsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.java,e\a\eac687070ebcf269524d3ea6f857457def8db92d
+‡
+Wsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java,1\2\121d8dc48116beae60b957bb6981618ac40f8abe
+–
+fsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java,6\f\6f35035c3f1af9e9e1375c6e38a43b6241afc5ff
