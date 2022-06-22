@@ -4,7 +4,7 @@ public class StringTest01 {
     public static void main(String[] args) {
         String nome = "Madruga"; //String constant pool
         String nome2 = "Madruga";
-        nome.concat(nome2);
+        nome = nome.concat(" Seu"); // nome += " Seu"
         System.out.println(nome);
         System.out.println(nome == nome2);
         String nome3 = new String("Madruga");
