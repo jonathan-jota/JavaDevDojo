@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÁá˜
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜šôÊúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó²ˆ¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µØ–ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯à¸Œÿÿÿÿÿ
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(˜šôÊúÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜šôÊúÿÿÿÿ

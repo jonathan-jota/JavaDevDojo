@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤®š÷þÿÿÿÿ
+É
+java:S1130"²Remove the declaration of thrown exception 'academy.devdojo.maratonajava.javacore.Oexception.exception.dominio.LoginInvalidoException', as it cannot be thrown from method's body.(Üˆ¸ö
+Œ
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Üˆ¸ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÁÍôüÿÿÿÿ
