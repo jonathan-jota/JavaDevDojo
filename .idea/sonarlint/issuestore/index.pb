@@ -25,3 +25,5 @@ Rsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.j
 Wsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java,1\2\121d8dc48116beae60b957bb6981618ac40f8abe
 –
 fsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java,6\f\6f35035c3f1af9e9e1375c6e38a43b6241afc5ff
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrappersTest01.java,2\f\2f503bd9de882c00a37969082385def236e9f537
