@@ -33,9 +33,5 @@ x
 Hsrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringTest02.java,f\3\f3581c7dd128bf93a9c2e81696bd400aaf0d0e9a
 €
 Psrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringPerfomanceTest.java,0\a\0a50b7c69b41461e89ef3c381ccafd71854b80af
-€
-Psrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.java,4\5\457e02678f5d9a1b2df65a3779607826a0629c6a
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest01.java,0\d\0d591f1e7b0b1b8275d64ed608cb5f72b6e5c12e
-|
-Lsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest02.java,2\a\2aa209253d47137ffb69d51ae409fb58e0765934
