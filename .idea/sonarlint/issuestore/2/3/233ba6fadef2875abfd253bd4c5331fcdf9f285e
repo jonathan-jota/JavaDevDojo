@@ -1,0 +1,18 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ù 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·üîşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(É€Ş[
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áàË¦ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úœüıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğò”úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÁ½„üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£¡›Ãûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶€‚õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’åí“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ë‘ûÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ÿ¾±
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ô’‘Äøÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(€œÂÛ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¤”µ‡
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë
