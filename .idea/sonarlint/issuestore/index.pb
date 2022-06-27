@@ -25,3 +25,13 @@ Rsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.j
 Wsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java,1\2\121d8dc48116beae60b957bb6981618ac40f8abe
 –
 fsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java,6\f\6f35035c3f1af9e9e1375c6e38a43b6241afc5ff
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrappersTest01.java,2\f\2f503bd9de882c00a37969082385def236e9f537
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringTest01.java,a\0\a063009a527693fc7aa017f72571283353684d61
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringTest02.java,f\3\f3581c7dd128bf93a9c2e81696bd400aaf0d0e9a
+€
+Psrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringPerfomanceTest.java,0\a\0a50b7c69b41461e89ef3c381ccafd71854b80af
+|
+Lsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest01.java,0\d\0d591f1e7b0b1b8275d64ed608cb5f72b6e5c12e

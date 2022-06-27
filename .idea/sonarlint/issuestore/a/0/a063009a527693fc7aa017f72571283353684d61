@@ -1,0 +1,17 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Madruga" 3 times.(Ì½ê©
+R
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(²”ş·
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(®çë‹ùÿÿÿÿ
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ğ–ç¿ÿÿÿÿÿ8†Ù‰Ù˜0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šóÊûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(²”ş·
+6
+java:S2129
+" Remove this "String" constructor(ŒÑà
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®çë‹ùÿÿÿÿ8ÕÂˆÙ˜0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ–ç¿ÿÿÿÿÿ8•Ù‰Ù˜0
