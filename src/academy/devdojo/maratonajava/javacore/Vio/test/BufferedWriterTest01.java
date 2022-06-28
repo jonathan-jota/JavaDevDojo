@@ -10,10 +10,10 @@ public class BufferedWriterTest01 {
 
         File file = new File("file.txt");
         try (FileWriter fw = new FileWriter(file, true)) {
-            BufferedWriter br = new BufferedWriter(fw);
-            br.write("O DevDojo é um ótimo curso, recomendo com certeza");
-            br.newLine();
-            br.flush();
+            BufferedWriter bw = new BufferedWriter(fw);
+            bw.write("O DevDojo é um ótimo curso, recomendo com certeza");
+            bw.newLine();
+            bw.flush();
             System.out.println("Arquivo criado");
         } catch (
                 IOException e) {
