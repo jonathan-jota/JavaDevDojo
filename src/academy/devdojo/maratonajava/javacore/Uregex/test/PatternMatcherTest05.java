@@ -19,8 +19,10 @@ public class PatternMatcherTest05 {
          *  {n,m} - de n até m
          *  () - agrupamento
          *  | - exemplo: o(v/c)o -> ovo ou oco
+         *  ^ - inicio da linha
          *  $ - fim da linha
          *  . - 123, 133, 1A3,1@3
+         *  [^abc] - negação. Desconsidera as letras a, b e c
          */
 
         String regex = "([a-zA-Z0-9\\._-])+@([a-z])+(\\.([a-z])+)+";
