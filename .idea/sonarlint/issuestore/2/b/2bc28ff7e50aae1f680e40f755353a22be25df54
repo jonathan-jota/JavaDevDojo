@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ»ğûÿÿÿÿ8©®¯Ïš0
+n
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ş æñşÿÿÿÿ8İåÀÏš0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(‰é«ø8²®¯Ïš0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(µ¡ÿ¡úÿÿÿÿ8²®¯Ïš0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(àÒ«Æøÿÿÿÿ8²®¯Ïš0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÙÓøşÿÿÿÿ8²®¯Ïš0
