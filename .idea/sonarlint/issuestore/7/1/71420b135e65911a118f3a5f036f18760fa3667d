@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—”£üÿÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "pastaDirectory".(¨­Ü¥
+[
+java:S1854"ERemove this useless assignment to local variable "subPastaDirectory".(ôœÅ€
+^
+java:S1854"CRemove this useless assignment to local variable "filePathCreated".(¥œşùÿÿÿÿ
+I
+java:S1481"3Remove this unused "pastaDirectory" local variable.(¨­Ü¥
+L
+java:S1481"6Remove this unused "subPastaDirectory" local variable.(ôœÅ€
+O
+java:S1481"4Remove this unused "filePathCreated" local variable.(¥œşùÿÿÿÿ

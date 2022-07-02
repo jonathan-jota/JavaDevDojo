@@ -13,5 +13,13 @@ w
 G.idea/sonarlint/issuestore/7/4/746b98403721d465a9ea356c19effa7fd19b3870,c\e\ce85f29d1775c4eab66bf2d25cd433a0b4d875fa
 w
 G.idea/sonarlint/issuestore/7/3/735805e452ee2fabf733c65aa3656e9f9f4eda32,9\d\9d7b9acdb5a8e351f433a90f701ee1c40acbbbe3
-I
-home/user/dev/arquivo.txt,9\8\98b1de670740d48cc186dc4aa573918c62f8333d
+s
+Csrc/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.java,7\1\71420b135e65911a118f3a5f036f18760fa3667d
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.java,a\a\aa829a7e22f9c52fc60cf8a0dd008ea77a51a253
+v
+Fsrc/academy/devdojo/maratonajava/javacore/Wnio/test/ResolveTest01.java,3\b\3b59fb2190d69d8ac75229e5d4506f8447c9c6f6
+y
+Isrc/academy/devdojo/maratonajava/javacore/Wnio/test/RelativizeTest01.java,0\1\017883089fffcdc0959905d983c6bde3b34cc09f
+‚
+Rsrc/academy/devdojo/maratonajava/javacore/Wnio/test/BasicFileAttributesTest01.java,1\3\139afba8357d8ba205b53920e1688f9d170cc681
