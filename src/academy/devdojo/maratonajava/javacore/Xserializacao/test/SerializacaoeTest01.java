@@ -1,6 +1,7 @@
 package academy.devdojo.maratonajava.javacore.Xserializacao.test;
 
 import academy.devdojo.maratonajava.javacore.Xserializacao.dominio.Aluno;
+import academy.devdojo.maratonajava.javacore.Xserializacao.dominio.Turma;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -12,7 +13,9 @@ import java.nio.file.Paths;
 public class SerializacaoeTest01 {
     public static void main(String[] args) {
         Aluno aluno = new Aluno(1L, "Jose", "123");
-        //serializar(aluno);
+        Turma turma = new Turma("Maratona Java");
+        aluno.setTurma(turma);
+        serializar(aluno);
         deserializar();
     }
 
