@@ -9,7 +9,8 @@ public class Smartphone {
         this.marca = marca;
     }
 
-    /**Deve ser Reflexivo: x.equals(x) tem que ser true para tudo diferente de null
+    /**
+     * Deve ser Reflexivo: x.equals(x) tem que ser true para tudo diferente de null
      * Simétrico para x e y diferentes de null, se x.equals(y) == true logo, y.equals(x) == true
      * Transitividade para x,y e z diferentes de null, se x.equals(y) == true, e x.equals(z) == true, portanto y.equals(z) == true
      * Consistente x.equals(x) sempre retorna true se x for diferente de null
@@ -18,11 +19,22 @@ public class Smartphone {
 
     @Override
     public boolean equals(Object obj) {
-        if(obj == null) return false;
-        if(this == obj) return true;
-        if(this.getClass() != obj.getClass()) return false;
+        if (obj == null) return false;
+        if (this == obj) return true;
+        if (this.getClass() != obj.getClass()) return false;
         Smartphone smartphone = (Smartphone) obj;
-        return  serialNumber != null && serialNumber.equals(smartphone.serialNumber);
+        return serialNumber != null && serialNumber.equals(smartphone.serialNumber);
+    }
+
+    /**
+     * se x.equals(y) == true, y.hashCode() == x.hasCode()
+     * y.hasCode() == x.hashCode() não necessiaramente o y.equals(x) tem que ser true
+     * x.equals(y) == false
+     * y.hashCode() != x.hashCode(), x.equals(y) deverá ser false
+     */
+    @Override
+    public int hashCode() {
+        return serialNumber == null ? 0 : this.serialNumber.hashCode();
     }
 
     public String getSerialNumber() {
