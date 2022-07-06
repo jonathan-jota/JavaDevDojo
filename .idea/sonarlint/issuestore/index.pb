@@ -4,11 +4,7 @@ Csrc/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest01.java,e\a\eac622
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 w
-G.idea/sonarlint/issuestore/8/a/8a12a59f8daa25c2728add1fd3d8f125c4a145ff,4\3\4308957be447354c034caf254d78ba6d65414942
-w
 G.idea/sonarlint/issuestore/7/4/746b98403721d465a9ea356c19effa7fd19b3870,c\e\ce85f29d1775c4eab66bf2d25cd433a0b4d875fa
-w
-G.idea/sonarlint/issuestore/7/3/735805e452ee2fabf733c65aa3656e9f9f4eda32,9\d\9d7b9acdb5a8e351f433a90f701ee1c40acbbbe3
 s
 Csrc/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.java,7\1\71420b135e65911a118f3a5f036f18760fa3667d
 x
@@ -43,3 +39,9 @@ _
 /pasta/subpasta1/subsubpasta1/subsubarquivo1.txt,e\a\ea1b06f61223e74bc61558d0ff1cb6dd91035642
 ~
 Nsrc/academy/devdojo/maratonajava/javacore/Wnio/test/ZipOutputStreamTest01.java,8\0\8011a269631582947520cbc1b69b39612f87f886
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Xserializacao/dominio/Turma.java,1\f\1ffa5d5d768b30b1f46b201865af7bb5ae86aabd
+…
+Usrc/academy/devdojo/maratonajava/javacore/Xserializacao/test/SerializacaoeTest01.java,6\d\6d733e94fb265cd6b90a2eb8258eb2299ef84059
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java,a\9\a94e569373749573f9612d6d815a81eac3844cc3
