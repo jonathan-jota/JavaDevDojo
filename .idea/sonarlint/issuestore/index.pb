@@ -43,5 +43,3 @@ z
 Jsrc/academy/devdojo/maratonajava/javacore/Xserializacao/dominio/Turma.java,1\f\1ffa5d5d768b30b1f46b201865af7bb5ae86aabd
 …
 Usrc/academy/devdojo/maratonajava/javacore/Xserializacao/test/SerializacaoeTest01.java,6\d\6d733e94fb265cd6b90a2eb8258eb2299ef84059
-z
-Jsrc/academy/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java,a\9\a94e569373749573f9612d6d815a81eac3844cc3
