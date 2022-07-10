@@ -47,3 +47,11 @@ z
 Jsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java,1\f\1f5ebfc571c16df48f039a9ba45e77ada1931e34
 z
 Jsrc/academy/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java,a\9\a94e569373749573f9612d6d815a81eac3844cc3
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java,f\8\f8e3172ef32df85b89baf58bb31d1611d1bc42c1
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java,f\3\f38ff936eefa781735c20b89f2ef7758b7fe17b7
+~
+Nsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneTest01.java,c\5\c5f5b6b404bfebf7af5c5444b98dc765c2aa57ac
+|
+Lsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java,a\f\affe032106bbf54cc64f00352cae4ce11a189de9
