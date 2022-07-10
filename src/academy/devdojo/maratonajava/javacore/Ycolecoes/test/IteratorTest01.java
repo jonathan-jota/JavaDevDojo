@@ -2,14 +2,12 @@ package academy.devdojo.maratonajava.javacore.Ycolecoes.test;
 
 import academy.devdojo.maratonajava.javacore.Ycolecoes.dominio.Manga;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class IteratorTest01 {
     public static void main(String[] args) {
-        List<Manga> mangas = new ArrayList<>(6);
+//        List<Manga> mangas = new ArrayList<>(6);
+        List<Manga> mangas = new LinkedList<>();
         mangas.add(new Manga(5L, "Attack on Titan", 19.9, 0));
         mangas.add(new Manga(3L, "Bersek", 15.6, 0));
         mangas.add(new Manga(2L, "Naruto", 20.0, 4));
