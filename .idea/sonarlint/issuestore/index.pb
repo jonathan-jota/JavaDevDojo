@@ -55,3 +55,11 @@ Hsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java,f\3\f
 Nsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneTest01.java,c\5\c5f5b6b404bfebf7af5c5444b98dc765c2aa57ac
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java,a\f\affe032106bbf54cc64f00352cae4ce11a189de9
+€
+Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest01.java,6\4\6472da98c3732db381b31be430841059c7111de1
+€
+Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest02.java,3\0\30517e803945fe5154d68855b5452c190bfc0322
+u
+Esrc/academy/devdojo/maratonajava/javacore/Rdatas/test/ZoneTest01.java,2\3\233ba6fadef2875abfd253bd4c5331fcdf9f285e
+‡
+Wsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java,3\0\30c904d98b518e8530938c2da8d5688ba919afde
