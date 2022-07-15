@@ -24,6 +24,7 @@ public class IteratorTest01 {
 
         mangas.removeIf(manga -> manga.getQuantidade() == 0);
 
+
         for(Manga manga: mangas) {
             System.out.println(manga);
         }
