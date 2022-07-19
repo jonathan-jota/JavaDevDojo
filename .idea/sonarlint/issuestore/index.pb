@@ -67,5 +67,3 @@ Jsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java,1\f
 Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest01.java,6\4\6472da98c3732db381b31be430841059c7111de1
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java,a\f\affe032106bbf54cc64f00352cae4ce11a189de9
-€
-Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableSetTest01.java,6\4\6439c86310d7e1ed38f186bb8fc1e01495358e93
