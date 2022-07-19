@@ -57,3 +57,15 @@ Esrc/academy/devdojo/maratonajava/javacore/Rdatas/test/ZoneTest01.java,2\3\233b
 Wsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java,3\0\30c904d98b518e8530938c2da8d5688ba919afde
 }
 Msrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MangaSortTest01.java,2\c\2cb19237459b1c50443bce4adc70b84815db6872
+w
+Gsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SetTest01.java,8\0\804204dabdec5d91d059c8b88c01252cef09aba2
+v
+Fsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java,3\a\3ababbcd52e5bfab613c346f4b1a1d5ca0057881
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java,1\f\1f5ebfc571c16df48f039a9ba45e77ada1931e34
+€
+Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest01.java,6\4\6472da98c3732db381b31be430841059c7111de1
+|
+Lsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java,a\f\affe032106bbf54cc64f00352cae4ce11a189de9
+€
+Psrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableSetTest01.java,6\4\6439c86310d7e1ed38f186bb8fc1e01495358e93
